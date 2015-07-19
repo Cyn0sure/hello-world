@@ -2,4 +2,7 @@
 
 #clear
 echo "Knowledge is Power"
+mkdir esc
+cd esc
+ls
 
